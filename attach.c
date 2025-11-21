@@ -30,4 +30,4 @@ void main()
     char last[100]="kumar";
     int sw=5;
     names(first, last, sw);
-}
+} 
