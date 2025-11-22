@@ -20,6 +20,7 @@ void main()
     float ca, cb;
     printf("enter currency a:");
     scanf("%f", &ca);
+
     printf("enter currency b:");
     scanf("%f", &cb);
 
